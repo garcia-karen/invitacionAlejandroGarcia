@@ -173,8 +173,8 @@ body{
     font-optical-sizing: auto;
     font-style: normal;
     unicode-bidi: isolate;
-    color: rgb(2, 2, 2);
-    text-shadow: 1px 1px 6px rgb(255, 255, 255), 4px 4px 6px rgba(158, 186, 191, 0.5), 8px 8px 11px rgb(255, 255, 255), 22px 22px 20px rgba(228, 236, 19, 0.868), -2px -2px 5px rgba(199, 135, 236, 0.2), 2px 2px 5px rgba(251, 249, 249, 0.2) !important;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 6px rgb(255, 255, 255), 4px 4px 6px rgba(158, 186, 191, 0.5), 8px 8px 11px rgb(255, 255, 255), 22px 22px 20px trgba(228, 236, 19, 0.868), -2px -2px 5px rgba(199, 135, 236, 0.2), 2px 2px 5px rgba(251, 249, 249, 0.2) !important;
     position: relative;
 }
 
@@ -241,7 +241,7 @@ body{
 .recepcion{
     margin: 10px auto;
     padding: 10px auto;
-    width: 300px;
+    width: 250px;
     height: auto;
 }
 .btn{
