@@ -310,9 +310,9 @@ unicode-bidi: isolate;
     text-shadow: 1px 1px 6px rgba(250, 240, 48, 0.9), 4px 4px 6px rgba(114, 225, 244, 0.5), 8px 8px 11px rgba(89, 255, 230, 0.85), 22px 22px 20px rgba(228, 236, 19, 0.868), -2px -2px 5px rgba(199, 135, 236, 0.2), 2px 2px 5px rgba(251, 249, 249, 0.2) !important;
     font-size: .5rem;
     position: relative;
-    top: 15%;
-    left: 45%;
-    transform: translate(-50%,-15%); 
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-10%); 
 }
 .titulo1{
     color: rgb(2, 2, 2);
